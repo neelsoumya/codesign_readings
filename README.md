@@ -6,7 +6,7 @@ Readings on interdisciplinary work
 
 ## Readings
 
-Computer scientist as toolsmith 2
+The computer scientist as toolsmith 2
 
 https://dl.acm.org/doi/epdf/10.1145/227234.227243
 

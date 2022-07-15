@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Readings on co-design
+Readings on interdisciplinary work
 
 ## Readings
 
